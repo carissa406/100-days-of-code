@@ -19,11 +19,12 @@
 
 ### Day 2: January 16, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Completed the Arithmetic_Arranger project!!!
 
-**Thoughts** 
+**Thoughts**: This was a difficult but challenging and rewarding project to do. I ran into a lot of errors but was able to resolve them and submit my work on freecodecamp.
 
-**Link(s) to work**
+**Link(s) to work**: https://repl.it/@carissa406/boilerplate-arithmetic-formatter#arithmetic_arranger.py
+https://github.com/carissa406/Python-Practice/blob/master/Arithmetic_Formatter.py
 
 
 ### Day 2: January 17, 2021
