@@ -21,7 +21,7 @@
 
 **Today's Progress**: Completed the Arithmetic_Arranger project!!!
 
-**Thoughts**: This was a difficult but challenging and rewarding project to do. I ran into a lot of errors but was able to resolve them and submit my work on freecodecamp.
+**Thoughts**: This was a difficult but challenging and rewarding project to do. I ran into a lot of errors but was able to resolve them and submit my work on freecodecamp. I learned a lot about manipulating strings and lists!
 
 **Link(s) to work**: https://repl.it/@carissa406/boilerplate-arithmetic-formatter#arithmetic_arranger.py
 https://github.com/carissa406/Python-Practice/blob/master/Arithmetic_Formatter.py
@@ -29,9 +29,17 @@ https://github.com/carissa406/Python-Practice/blob/master/Arithmetic_Formatter.p
 
 ### Day 2: January 17, 2021
 
+**Today's Progress**: Started time-calculator project from freecodecamp
+
+**Thoughts**: Since we are not allowed to import any Python libraries for this project, the biggest challenge is figuring out how to calculate the time so that a variable keeps the number of half days that have passed and converting that into AM or PM.
+
+**Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
+
+### Day 3: January 18, 2021
+
+
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts**: 
 
-**Link(s) to work**
-
+**Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
