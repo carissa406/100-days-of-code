@@ -27,7 +27,7 @@
 https://github.com/carissa406/Python-Practice/blob/master/Arithmetic_Formatter.py
 
 
-### Day 2: January 17, 2021
+### Day 3: January 17, 2021
 
 **Today's Progress**: Started time-calculator project from freecodecamp
 
@@ -35,11 +35,50 @@ https://github.com/carissa406/Python-Practice/blob/master/Arithmetic_Formatter.p
 
 **Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
 
-### Day 3: January 18, 2021
+### Day 4: January 19, 2021
 
+**Today's Progress**: Switching from AM to PM and reverse
+
+**Thoughts**: I spent a lot of time thinking about how to get the final minute and hr mark. But I finally figured it out by using modulo and converting everything to 24 hour time so that I can distinguish am from pm.
+
+**Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
+
+### Day 6: January 21, 2021
+
+**Today's Progress**: Completed time calculator!!
+
+**Thoughts**: I tried my code on the practice cases provided, and made edits accordingly. Now I am trying to figure out how to work with optional function arguments passed. I used the same modulo idea with the days of the week and completed the project!!!
+
+**Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
+
+### Day 5: January 19, 2021
 
 **Today's Progress**: 
 
-**Thoughts**: 
+**Thoughts**:
+
+**Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
+
+### Day 5: January 19, 2021
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
+
+### Day 5: January 19, 2021
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
+
+### Day 5: January 19, 2021
+
+**Today's Progress**: 
+
+**Thoughts**:
 
 **Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
