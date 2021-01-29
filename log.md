@@ -6,7 +6,7 @@
 
 **Thoughts:** I started this arithmetic arranger project. I had trouble figuring out string formatting and how to arrange each line to print the way I want it to. Eventually I figured out that I should store each line on a separate string with the amount of spaces needed already stored and ready to print.
 
-**Link to work:** https://github.com/carissa406/Python-Practice/blob/master/Arithmetic_Formatter.py
+**Link to work:** https://repl.it/@carissa406/boilerplate-arithmetic-formatter#arithmetic_arranger.py
 
 ### Day 1: January 15, 2021
 
@@ -23,7 +23,7 @@
 
 **Thoughts**: This was a difficult but challenging and rewarding project to do. I ran into a lot of errors but was able to resolve them and submit my work on freecodecamp. I learned a lot about manipulating strings and lists!
 
-**Link(s) to work**: https://repl.it/@carissa406/boilerplate-arithmetic-formatter#arithmetic_arranger.py
+**Link(s) to work**: 
 https://github.com/carissa406/Python-Practice/blob/master/Arithmetic_Formatter.py
 
 
@@ -51,34 +51,34 @@ https://github.com/carissa406/Python-Practice/blob/master/Arithmetic_Formatter.p
 
 **Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
 
-### Day 5: January 19, 2021
+### Day 7: January 23, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Started budget-app
 
-**Thoughts**:
+**Thoughts**: Before I start the budget-app, I need to learn more about object oriented programming.
 
-**Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
+**Link(s) to work**: https://repl.it/@carissa406/boilerplate-budget-app#README.md
 
-### Day 5: January 19, 2021
+### Day 8: January 27, 2021
 
-**Today's Progress**: 
+**Today's Progress**: the new school semester started
 
-**Thoughts**:
+**Thoughts**: the new school semester started so I did a lot of reading the past few days about object oriented programming in Java. I'll be pausing python stuff and going to work on java stuff for class.
 
-**Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
+**Link(s) to work**: 
 
-### Day 5: January 19, 2021
+### Day 9: January 28, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Assignment 1
 
-**Thoughts**:
+**Thoughts**: We are working on a cargohold project that can add, remove, sort and display things in an array. I am stuck on how to display the array in the way that the professor has specified.
 
-**Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
+**Link(s) to work**: https://github.com/carissa406/Java-2/blob/master/Assignment01Driver.java
 
-### Day 5: January 19, 2021
+### Day 10: January 29, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Assignment 1 complete!
 
-**Thoughts**:
+**Thoughts**: I was only stuck on how to display the array without using a dictionary or hash methods. I had to ask for help but I ended up completing the assignment!
 
-**Link(s) to work**: https://github.com/carissa406/Python-Practice/blob/master/time-calculator.py
+**Link(s) to work**: https://github.com/carissa406/Java-2/blob/master/Assignment01Driver.java
