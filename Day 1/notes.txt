@@ -1,0 +1,1 @@
+#learned that putting \n at the end of an input function will let you type the input on a new line

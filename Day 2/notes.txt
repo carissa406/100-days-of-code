@@ -1,0 +1,12 @@
+
+#you can put _ in a float to make a large number more readable 730000.82 == 730_000.82
+#the exponent operator is ** : 43**2
+#the round function: round(2.6666, 2) will round the number to 2 decimal places
+#use floor division to chop off the decimal parts 8 // 3 = 2 
+#all division in python results in a float, even if between two integers
+
+#F-String, so you don't have to convert to strings and have a bunch of +'s
+#days = (90 - int(age)) * 365
+#weeks = (90 - int(age)) * 52
+#months = (90 - int(age)) * 12
+#print(f"You have {days} days, {weeks} weeks, and {months} + months left.")
