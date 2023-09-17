@@ -1,0 +1,19 @@
+import random
+random_int = random.randint(1,10) gives a random integer between 1 and 10
+
+modules are the separate py files that you can call in your main python file 'import module_file'
+call the variable x stored inside by using module_file.x
+
+random_float = random.random() gives a random float between 0 and 1
+
+random_float * 5 gives a random float between 0 and 5
+
+list = [a, b, c]
+list.append(x) add x to end of list
+
+nested list
+list1 = [a, b, c]
+list2 = [d, e, f]
+combined_list  = [list1, list2]
+combined_list = [a, b, c, d, e, f]
+combined_list[1][1] at index 1 of index list 1 (list2, e)
