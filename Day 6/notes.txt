@@ -1,0 +1,7 @@
+def my_function():
+    do something
+
+my_function() executes the function 
+
+while something is true:
+    do something repeatedly
