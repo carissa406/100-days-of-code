@@ -1,0 +1,11 @@
+for i in list
+    do something
+
+for i in range(a,b) NOT INCLUDING b
+    do something
+
+for i in range(a,b,c) NOT INCLUDING b, incrementing by c
+    do something
+
+
+random.choice(list, k=5) pick 5 random items from list
