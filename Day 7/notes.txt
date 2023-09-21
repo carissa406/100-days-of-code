@@ -1,3 +1,11 @@
 for item in list: 
     do something
 #using the in statement
+
+if you have a separate file with data that isn't the main, you can
+import file
+file.data
+
+the course was using a replit functon called clear() that would 
+clear the screen output when called. It might be worth it to look
+into something like that.
