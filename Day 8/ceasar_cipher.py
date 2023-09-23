@@ -50,7 +50,7 @@ while should_continue:
 
 
 #old code
-""" def encrypt(plain_text, shift_amount):
+def encrypt(plain_text, shift_amount):
     cipher_text = ""
     for letter in plain_text:
         if letter in alphabet:
@@ -80,5 +80,5 @@ if direction == "encode":
 elif direction == "decode":
     decrypt(text, shift)
 else:
-    print("please input a valid option") """
+    print("please input a valid option")
 

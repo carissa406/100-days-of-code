@@ -1,0 +1,45 @@
+create empty dictionary
+my_dictionary = {}
+
+make a dictionary with keys and values already known
+fruits = {"apple": "red and round", 
+"orange": "orange and round"}
+
+add somethng to dictionary
+fruits["grapes"] = "purple and many small round shapes"
+
+you can append a dictionary to a list but cant appennd a dictionary to a dictionary
+
+edit item in dictionary
+fruits["orange"] = "light yellow and round"
+
+looping through dictionary
+for key in fruits:
+    print(key)
+    print(fruits[key]) #for the value and not just key
+
+listing lists inside a dictionary
+travel_log = {
+    "France": ["Paris, "Lille", "Dijon"] #the value is a list bc dictonaries can only have 1 value, the 1 value here is the list
+}
+
+dictionary in a dictionary
+travel_log = {
+    "France": {"cities_visited": ["Paris, "Lille", "Dijon"]} #cities visited is now a dictonary inside the dictionary travel_log
+}
+
+dictionary in a list
+travel_log = [
+    {
+        "country": "France",
+        "cities_visited": ["Paris", "Lille", "Dijon"] #key with list value
+        "total_visits": 12
+    },
+    {
+        "country": "Germany",
+        "cities_visited": ["Berlin", "Hamburg", "Stuttgart"],
+        "total_visits": 5
+    }
+]
+
+dictionaries are unordered so they have no index and must be indexed using the key name
