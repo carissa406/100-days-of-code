@@ -15,13 +15,14 @@ def guessing_game(attempts):
             print(f"You guessed it right! The number was: {goal}")
             goal_reached = True
         elif guess > goal:
-            print("Too high.\n Guess Again.")
+            print("Too high.")
             attempts -= 1
         elif guess < goal:
-            print("Too low. \n Guess Again.")
+            print("Too low.")
             attempts -= 1
         else:
             print("You didn't type a valid number...\n Guess Again.")
+    print(f"You didn't guess the number: {goal}")
 
 if difficulty == "easy":
     attempts = 10
