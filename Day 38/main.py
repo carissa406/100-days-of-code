@@ -2,22 +2,20 @@ import requests
 from datetime import datetime
 from requests.auth import HTTPBasicAuth
 import os
+from dotenv import load_dotenv
 
+load_dotenv("C:/Users/hicks/Documents/Python/EnvironmentVariables/.env")
+APP_ID = os.getenv("EXERCISE_APP_ID")
+API_KEY = os.getenv("EXERCISE_API_KEY")
+sheet_endpoint = os.getenv("EXERCISE_sheet_endpoint")
 
+GENDER = os.getenv("GENDER")
+WEIGHT_KG = int(os.getenv("WEIGHT_KG"))
+HEIGHT_CM = int(os.getenv("HEIGHT_CM"))
+AGE = int(os.getenv("AGE"))
 
-APP_ID = "d0941b77"
-API_KEY = "08411153051d04f4a7a550c27e51e2f1"
-sheet_endpoint = "https://api.sheety.co/0df6c5c2c09cb97ae2b1dca93b3a8aae/workoutTracking/workouts"
-
-GENDER = "female"
-WEIGHT_KG = 45
-HEIGHT_CM = 163
-AGE = 27
-
-USERNAME = "carissa"
-PASSWORD = "password"
-
-basic = HTTPBasicAuth('carissa', 'carissa406')
+USERNAME = os.getenv("EXERCISE_USERNAME")
+PASSWORD = os.getenv("EXERCISE_PASSWORD")
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 
@@ -54,6 +52,12 @@ for exercise in result["exercises"]:
         }
     }
 
-    sheet_response = requests.post(sheet_endpoint, json=sheet_inputs, auth=basic)
+    sheet_response = requests.post(
+        sheet_endpoint, 
+        json=sheet_inputs, 
+        auth=(
+            USERNAME,
+            PASSWORD
+        ))
 
     print(sheet_response.text)
