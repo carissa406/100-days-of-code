@@ -1,0 +1,60 @@
+inline
+<html style="background:blue"></html>
+
+internal
+<html>
+    <head>
+        <style>
+            html{
+                background: red;
+            }
+        </style>
+    </head>
+</html>
+
+External
+<html>
+    <head>
+        <link rel="stylesheet" href="./style.css"/>
+    </head>
+</html>
+
+
+style = property to change: value to change it to
+
+
+
+
+text 
+element selector ALL ELEMENTS with the tag h1
+h1{
+    color: blue
+}
+
+class selector, add attribute to elements such as all the h2s that u want red, apoply to many elements
+.red-text {
+    color:red
+}
+
+<h2 class = "red-text">Example of red text</h2>
+
+ID selector, apply to one element in single html file
+#main{
+    color: red;
+}
+<h2 id="main">Red</h2>
+
+Attribute selector
+p = html element to change
+draggable = attribute to change
+select all p elements with the attribute "draggable" and apply this style to it.
+p[draggable]{
+    color:red
+}
+
+
+
+SELECT ALL
+*{
+    color:red;
+}
