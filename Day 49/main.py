@@ -2,6 +2,10 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
+EMAIL = 'your email here'
+
+PASSWORD = 'your password here'
+
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
 
@@ -16,8 +20,8 @@ sign_in.click()
 email = driver.find_element(By.ID, value='username')
 password = driver.find_element(By.ID, value='password')
 
-email.send_keys('hicks.carissa@gmail.com')
-password.send_keys('Springfield1!23')
+email.send_keys(EMAIL)
+password.send_keys(PASSWORD)
 
 submit = driver.find_element(By.CSS_SELECTOR, value='button')
 submit.click()
